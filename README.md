@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="public/docs/banner.png" alt="Assistente com IA Banner" width="800"/>
 
   <h1>💬 Assistente com IA (React + Node + Gemini)</h1>
   <p>
